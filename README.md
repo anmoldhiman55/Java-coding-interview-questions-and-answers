@@ -31,6 +31,15 @@ In this article we will share nice collection of <b>java coding interview questi
 <li><a href="https://javavogue.com/2015/03/expand-string.html">Expand String</a></li>
 <li><a href="https://javavogue.com/2015/03/reverse-string.html">Reverse String</a></li>
   </ul>
+  What is default value Of int In Java ?
+  You can learn here <a href="https://www.javavogue.com/2022/08/default-value-of-int-in-java/">Default value Of int in java</a>
+  
+  StringUtils.isNotBlank() VS StringUtils.isNotEmpty() in Java 
+  You can see nice example of <a href="https://www.javavogue.com/2022/08/default-value-of-int-in-java/">StringUtils.isNotBlank() VS StringUtils.isNotEmpty() </a> in Java
+  
+  Math.max() Method Example in Java  
+  You can see here <a href="https://www.javavogue.com/2022/04/math-max-method-in-java/">Math.max() Method in Java</a> with exaplation . 
+  
   
   For more coding interview question see : <a href="https://www.javavogue.com/"> Java Vogue</a>
   
